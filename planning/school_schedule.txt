@@ -1,0 +1,114 @@
+Junior High School Schedule (Might need worked on):
+	Schedule A:
+		0730 (7:30 AM)			School Starts
+		0810 (8:10 AM)			??? (Can't simplify)
+		0815 (8:15 AM)			Teacher Meeting Prep.
+		0825 (8:25 AM)			Teacher Meeting/Homeroom
+		0830 (8:30 AM)			Homeroom
+		0840 (8:40 AM)			1st Period
+		0930 (9:30 AM)			Break
+		0940 (9:40 AM)			2nd Period
+		1030 (10:30 AM)			Break
+		1040 (10:40 AM)			3rd Period
+		1130 (11:30 AM)			Break
+		1140 (11:40 AM)			4th Period
+		1230 (12:30 PM)			Lunch
+		1320 (1:20 PM)			5th Period
+		1410 (2:10 PM)			Break
+		1320 (2:20 PM)			6th Period
+		1510 (3:10 PM)			Break
+		1515 (3:15 PM)			Cleaning Starts
+		1530 (3:30 PM)			Cleaning Ends
+		1535 (3:35 PM)			Homeroom
+		1555 (3:55 PM)			??? (Can't Simplify)
+		1620 (4:20 PM)			Club Activities
+		1830 (6:30 PM)			Club Activities Ends/Next Day Prep.
+		2030 (8:30 PM)			School Ends
+	Schedule B:
+		0730 (7:30 AM)			School Starts
+		0810 (8:10 AM)			??? (Can't Simplify)/Teacher Meeting Prep.
+		0815 (8:15 AM)			Teacher Meeting/Homeroom
+		0825 (8:25 AM)			Homeroom
+		0830 (8:30 AM)			??? (Unsure)
+		0840 (8:40 AM)			1st Period
+		0915 (9:15 AM)			Break
+		0935 (9:35 AM)			2nd Period
+		1020 (10:20 AM)			Break
+		1030 (10:30 AM)			3rd Period
+		1115 (11:15 AM)			Break
+		1125 (11:25 AM)			4th Period
+		1210 (12:10 PM)			Lunch
+		1300 (1:00 PM)			5th Period
+		1345 (1:45 PM)			Break
+		1355 (1:55 PM)			6th Period
+		1440 (2:40 PM)			Break
+		1445 (2:45 PM)			Cleaning Starts
+		1505 (3:00 PM)			Cleaning Ends
+		1505 (3:05 PM)			Homeroom
+		1525 (3:25 PM)			??? (Can't Simplify)
+		1600 (4:00 PM)			Club Activities
+		1800 (6:00 PM)			Club Activities Ends/School Ends
+References:
+https://akitajet.com/wiki/A_day_in_a_Japanese_junior_high_school
+
+
+
+[Probably not going to use]
+Junior Hich School Yearly Schedule:
+	August			Summer Vacation
+					School Speech Contest Practice
+		25th			One Day School [2nd Semester Prep.]
+	September		School Starts
+		1st				Opening Ceremony [2nd Semester Begins]
+		9th				Parents Meeting
+		14th-16th		School Trip (Grade 1)
+		23rd			Student Council Election/Swimming Class Ends
+		27th
+					School Speech Contest
+	October			School Festival Prep.
+	November		Chorus Contest (Practice 1 hour or more, daily)
+	December		Testing
+					Winter Vacation (Late Dec.)
+	January			School Starts Again (Mid Jan.)
+	February		High School Interview Test for High Level Students
+	March			Graduation Practice (3rd Year Students)
+					Good-bye Parties (Often)
+	April			Short Spring Vacation
+					New School Year Opening Ceremony
+					Welcome Parties (Often)
+		6th				Opening Ceremony (1st Semester)
+		7th				Entrance Ceremony
+		8th				Orientation
+		11th			Achievement Test
+		12th			Physical Examination
+		14th			Dental Check/Medical Check (Grade 1)
+		15th			Parent Meeting
+		19th			Achievement Test
+		20th-26th		Home Visitation by Teacher
+	May				School Sports Festival Practice
+		6th				School Trip Orientation (Grade 3)/Parent Meeting (Grade 1)/School Club Parent Meeting
+		11th			Eye Check
+		13th			Student General Meeting
+		19th			Medical Check (Grade 3)
+		20th-21st		
+		22nd-24th		School Trip (Grade 3)
+		26th			Medical Check (Grade 2)
+	June			School Sports Festival Practice
+		4th				Sports Day
+		8th				Ontological Check
+		15th			Physical Performance Test
+		21st			Achievement Test (Grade 3)
+		22nd-24th		Term End Exam
+		27th			Swimming Class Starts
+		30th			Spoen School Day for Elementary School Students
+	July			Final Bit Tournaments
+					Club Activities Competitions
+					Summer Vacation (Late July)
+		6th				Achievement Test [English] (Grade 3)
+		6th				Achievement Test by Tokyo Metropolitan Gov. (Grade 2)
+		19th			General Meeting
+		20th			Closing Ceremony
+		21th			Supplemental Classes Start
+References:
+https://akitajet.com/wiki/A_year_in_a_Japanese_junior_high_school
+https://nbakki.hatenablog.com/entry/Calendar_of_Senior_High_School_in_Japan
