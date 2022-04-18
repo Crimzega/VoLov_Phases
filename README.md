@@ -12,6 +12,6 @@
 
 ### Brief info
 
-This is simply is Yandere Simulator was made by another person instead.
+This is simply a what if scenario where Yandere Simulator was made by another person instead.
 
 For more information please [click here](https://github.com/Crimzega/VoLov_Phases/blob/main/planning/INFO.md).
