@@ -1,0 +1,13 @@
+Senpai [先輩]
+Kouhai [後輩]
+Middleclass Student [中流階級 学生] *
+Student [学生]
+Student Counsil [生徒会]
+Teacher [先生]
+Gym Teacher [体育教師]
+School Nurse [養護教諭]
+Vice-Principal [教頭先生]
+Principal [校長]
+
+
+* - Indeterminate Script Direction

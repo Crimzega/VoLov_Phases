@@ -1,7 +1,7 @@
 Junior High School Schedule (Might need worked on):
 	Schedule A:
 		0730 (7:30 AM)			School Starts
-		0810 (8:10 AM)			??? (Can't simplify)
+		0810 (8:10 AM)			Students & Teachers arrive
 		0815 (8:15 AM)			Teacher Meeting Prep.
 		0825 (8:25 AM)			Teacher Meeting/Homeroom
 		0830 (8:30 AM)			Homeroom
@@ -26,10 +26,10 @@ Junior High School Schedule (Might need worked on):
 		2030 (8:30 PM)			School Ends
 	Schedule B:
 		0730 (7:30 AM)			School Starts
-		0810 (8:10 AM)			??? (Can't Simplify)/Teacher Meeting Prep.
+		0810 (8:10 AM)			Students & Teachers arrive/Teacher Meeting Prep.
 		0815 (8:15 AM)			Teacher Meeting/Homeroom
 		0825 (8:25 AM)			Homeroom
-		0830 (8:30 AM)			??? (Unsure)
+		0830 (8:30 AM)			Finish Homeroom
 		0840 (8:40 AM)			1st Period
 		0915 (9:15 AM)			Break
 		0935 (9:35 AM)			2nd Period

@@ -1,0 +1,59 @@
+Kaminaga [神長]
+	Hiroka [洋夏] - Female Player
+	Ichiyou [一葉] - Male Player
+Hyakuta [百田]
+	Sakurae [桜江] - Female Love Interest (先輩)
+	Ryuujin [琉人] - Male Love Interest (Senpai)
+	Namiyo [奈美世] - Love Interest's Sister (Middleclass Student)
+	Seiji [誠二朗] - Love Interest's Brother (Middleclass Student)
+Kurosaki [黒崎]
+	Baruto [把瑠都] - Rival & Obito Gezan's Love Interest
+Ryu [龍]
+	Yukio [雪桜] - Student & Yazawa Mako's Love Interest {Room 3-6}
+	Akiko [成子]- Student (Kouhai) {Room 3-2}
+Funada [船田]
+	Yoshino [よしのぶ] - Student (Senpai)
+Hayate [早田]
+	Suou [周桜] - Student {Room 2-5}
+Tomioka [冨岡]
+	Miyoshi [実世祉] - Student (Kouhai) {Room 3-5}
+Masuda [増田]
+	Akanuma [赤沼] - Student & Mimi Oshiba's Love Interest {Room 2-1}
+Oshiba [小柴]
+	Mimi [心美歌] - Student (Kouhai) {Room 3-2}
+Takimoto [瀧本]
+	Sanari [佐也] - Student (Senpai) & Yazawa Mako's Best Friend {Room 1-4}
+Umakoshi [馬越]
+	Yuisei [結情] - Student {Room 2-4}
+Enokimoto [榎本]
+	Sachi [幸悟郎] - Student (Senpai) {Room 1-3}
+Okuchi [大口]
+	Nayu [凪優] - Student (Kouhai) {Room 3-1}
+Gezan [下山]
+	Obito [紳人] - Student (Kouhai) {Room 2-1}
+Sekimoto [関本]
+	Kiun [嬉運] - Student Counsil (Senpai) {Room 2-2}
+Bu [武]
+	Kariyuki [狩行] - Student Council {Room 3-1}
+Wakabae [若生]
+	Ima [一鞠] - Student Counsil (Kouhai) {Room 2-5}
+Tsuda [津田]
+	Pao [羽和] - Student Counsil {Room 3-1}
+Fukumori [福森]
+	Takuhiro [琢広] - Kaminaga Family friend
+Kirihara [桐原]
+	Baku [漠] - Principal
+Tokunaga [徳永]
+	Ikumi [亥久美] - Vice-Principal
+Toi [土肥]
+	Ouken [旺憲] - Teacher
+Akashi [明石]
+	Minoru [美乃瑠] - Teacher
+Tsuru [鶴]
+	Hinata [陽成太] - Teacher
+Mizukoshi [水越]
+	Hoshia [星愛] - Teacher
+Hatori [羽鳥]
+	Katsuru [嘉弦] - Gym Teacher
+Akiawa [相川]
+	Sayano [咲也乃] - School Nurse
