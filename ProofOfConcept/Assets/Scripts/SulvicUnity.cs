@@ -9,17 +9,6 @@ namespace Sulvic.Unity{
 	using Sulvic.Lib;
 	using Sulvic.Util;
 
-	public static class DictionaryExt{
-
-		public static XmlDictionary<K, V> AsXmlDictionary<K, V>(this Dictionary<K, V> dict){
-			XmlDictionary<K, V> xmlDict = new XmlDictionary<K, V>();
-			foreach(KeyValuePair<K, V> pair in dict) xmlDict.Add(pair.Key, pair.Value);
-			dict.Clear();
-			return xmlDict;
-		}
-
-	}
-
 	public class UnityHelper{
 
 		private static void SetActive(bool active, params GameObject[] objects){
@@ -68,27 +57,6 @@ namespace Sulvic.Unity{
 
 		public static Vector3 MoveTowards(Transform from, Transform to, Vector3 offset) =>
 			Vector3.MoveTowards(GetPosition(from), GetPosition(to) + offset, Time.deltaTime);
-
-	}
-
-	[XmlRoot("XmlSerialiable")]
-	public class XmlDictionary<K, V>: Dictionary<K, V>{
-
-		private readonly XmlSerializer KEY_SERIAL = new XmlSerialiable(typeof(K)), VALUE_SERIAL = new XmlSerializer(typeof(V));
-
-		private void ReadXml(XmlReader reader){
-			Clear();
-			
-		}
-
-		private void WriteXml(XmlWriter writer){
-			foreach(KeyValuePair<K, V> pair in this){
-				KEY_SERIAL.Deserialize(writer, pair.Key);
-				VALUE_SERIAL.Deserialize(writer, pair.Value);
-			}
-		}
-
-		private XmlSchema GetSchema() => null;
 
 	}
 

@@ -26,6 +26,11 @@ ProofOfConcept/[Aa]ssets/Plugins/Editor/JetBrains*
 # Visual Studio cache directory
 ProofOfConcept/.vs/
 
+# Mockup Textures
+*.pdn
+*.xcf
+*.psd
+
 # Gradle cache directory
 ProofOfConcept/.gradle/
 
