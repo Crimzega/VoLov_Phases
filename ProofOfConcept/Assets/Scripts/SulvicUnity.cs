@@ -1,13 +1,13 @@
-namespace Sulvic.Unity{
+using System.Linq;
+using System.Collections.Generic;
+using System.Xml;
+using System.Xml.Schema;
+using System.Xml.Serialization;
+using UnityEngine;
+using Sulvic.Lib;
+using Sulvic.Util;
 
-	using System.Linq;
-	using System.Collections.Generic;
-	using System.Xml;
-	using System.Xml.Schema;
-	using System.Xml.Serialization;
-	using UnityEngine;
-	using Sulvic.Lib;
-	using Sulvic.Util;
+namespace Sulvic.Unity{
 
 	public class UnityHelper{
 
